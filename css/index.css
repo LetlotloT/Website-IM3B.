@@ -1,0 +1,106 @@
+
+.mainhead{
+    background: url(/Images/yan-berthemy-3eXzYcN4rI4-unsplash-min.jpg) no-repeat;
+    background-size: cover; 
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    color: antiquewhite;}
+   
+.slogan{
+    font-size: 5rem;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+    background-color: black;
+    backdrop-filter: 50px;
+    padding: 20px 20px;
+    border-radius: 30px; 
+}
+.vision{
+    font-size: 1.4rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background-color: black;
+    backdrop-filter: blur(50px);
+    padding: 20px 20px;
+    border-radius: 30px; 
+}
+.mainbody{
+background-color: rgb(240, 229, 215) ;
+font-family: sans-serif;
+color: black;
+display: flex;
+align-items: top;
+justify-content: space-between;
+flex-direction: column;
+margin-top: 10rem;
+margin-bottom: 10rem;
+
+    
+}
+
+.heading {font-size: 3rem;
+    font-family: sans-serif;
+    margin-left: 2rem;    
+}
+.report{
+    background-color: black;
+    color: antiquewhite;
+    height: 40vh;
+    width: 80vw;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.visualisation{
+    background-color: black;
+    color: antiquewhite;
+    height: 40vh;
+    width: 80vw;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.blog{
+    background-color: black;
+    color: antiquewhite;
+    height: 40vh;
+    width: 80vw;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.design{
+    background-color: black;
+    color: antiquewhite;
+    height: 40vh;
+    width: 80vw;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}  
+
